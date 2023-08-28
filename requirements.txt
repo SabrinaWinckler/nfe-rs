@@ -1,0 +1,4 @@
+pynfe
+google-api-python-client
+googlesearch-python
+google
